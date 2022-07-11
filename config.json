@@ -1,0 +1,12 @@
+{
+
+	"token": "bot token",
+
+    "guildId": "discord server id",
+
+    "server_ip": "mta server ip (Example : 94.23.68.73)",
+
+    "server_port": "mta server port (Example : 22003)"
+
+}
+
